@@ -1,0 +1,11 @@
+# Trade Profit/Loss Calculator Requirements
+# No external dependencies needed! tkinter is built-in with Python
+
+# If you need to install tkinter separately (on Linux):
+# sudo apt-get install python3-tk
+
+# This application uses only Python standard library:
+# - tkinter (GUI)
+# - csv (data storage)
+# - os (file operations)
+# - datetime (timestamps)
